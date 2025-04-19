@@ -1,0 +1,7 @@
+streamlit==1.24.0
+pandas
+numpy
+plotly
+ydata-profiling==4.1.2
+streamlit-pandas-profiling
+openpyxl
